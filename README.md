@@ -2,10 +2,15 @@
 --------------------------------------------
 ## TO DO
 
-[] finish file monitoring, 
+- [] added the configs
+- [] process monitoring
+- [] log monitoring
+- [] port monitoring
 
-[] plugins file  
+- [] finish file monitoring
 
-[] main file
+- [] plugins file
 
-[] Begin Testing 
+- [] main file
+
+- [] Begin Testing
