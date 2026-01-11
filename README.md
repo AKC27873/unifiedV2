@@ -2,10 +2,13 @@
 --------------------------------------------
 ## TO DO
 
-- [] added the configs
-- [] process monitoring
-- [] log monitoring
-- [] port monitoring
+- [x] added the configs
+
+- [x] process monitoring
+
+- [x] log monitoring
+
+- [x] port monitoring
 
 - [] finish file monitoring
 
