@@ -3,6 +3,9 @@
 ## TO DO
 
 [] finish file monitoring, 
+
 [] plugins file  
+
 [] main file
+
 [] Begin Testing 
